@@ -1,2 +1,0 @@
-# begincampbellclan
-Begin app
